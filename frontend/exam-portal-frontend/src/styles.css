@@ -1,0 +1,18 @@
+
+html, body{
+    height: 100%;
+}
+body{
+    margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+.text-center{
+    text-align: center;
+    color: black;
+}
+
+img{
+    border:black solid;
+    max-width:15%;
+    height:auto;
+    border-radius:50%;
+}

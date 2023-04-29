@@ -1,0 +1,15 @@
+.myId{
+    background-color: rgb(0, 0, 0); 
+    color: rgb(185, 243, 91);
+    text-align: center;
+    border:rgb(255, 255, 255) solid;
+}
+
+
+
+
+
+  
+/*if you pass background-color in rgb,then you can pass
+as a fourth argument the opacity of background color and it will not affect
+opacity in child element */;
